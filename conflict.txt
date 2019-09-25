@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-This is conflict1 branch
-=======
-This is conflict2 branch
->>>>>>> LSHconflict2
+This is conflict1 branch + This is conflict2 branch
+
